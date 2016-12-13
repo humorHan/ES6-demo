@@ -2,6 +2,7 @@
 探索ES6
 
 知识点结构： ES6知识点模块对应的js测试demo  以及引用的辅助测试demo
+<pre>
 <code>
 var ES6 = [
     // 知识点模块...
@@ -21,3 +22,4 @@ var ES6 = [
     }
 ];
 </code>
+</pre>

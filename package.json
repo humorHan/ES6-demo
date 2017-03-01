@@ -5,6 +5,12 @@
   "main": "gulpFile.js",
   "scripts": {
   },
+  "keywords":[
+    "ES6",
+    "es6",
+    "ES2015",
+    "ES2015-demo"
+  ],
   "author": "humorHan",
   "license": "ISC",
   "dependencies": {

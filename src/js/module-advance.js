@@ -10,6 +10,8 @@ console.log(changeCatName);
 import {changeName} from '../dep/test2.js';
 console.log(changeName);
 
-
+import * as all from '../dep/test2.js';
+console.log(all.name1);        //undefined
+console.log(all.default);      //12  -- 也就是name1的值，所以其实export default其实是暴露一个叫default的变量
 
 //***** 另外顶部this是指向undefined  并不是window

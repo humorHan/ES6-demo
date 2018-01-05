@@ -23,6 +23,14 @@ var ES6 = [
         ]
     }，
     {
+        '解构':[
+            {
+                name: '解构',
+                js： '解构.js'
+            }
+        ]
+    }
+    {
         'module': [
             // 涉及的demo...
             {
@@ -33,6 +41,14 @@ var ES6 = [
                 name: '进阶demo',
                 js: 'main2.js,
                 subJs: 'test2.js'   //辅助测试的js
+            }
+        ]
+    },
+    {
+        'class': [
+            {
+                name: 'class-demo',
+                js: 'class-demo'
             }
         ]
     }

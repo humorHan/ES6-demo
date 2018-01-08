@@ -21,7 +21,7 @@ var ES6 = [
                 js: 'let1.js'
             }
         ]
-    }，
+    },
     {
         '解构':[
             {
@@ -29,7 +29,15 @@ var ES6 = [
                 js： '解构.js'
             }
         ]
-    }
+    },
+    {
+        'function':[
+            {
+                name: 'function',
+                js： 'function.js'
+            }
+        ]
+    },
     {
         'module': [
             // 涉及的demo...

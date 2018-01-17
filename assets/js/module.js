@@ -1,4 +1,4 @@
-webpackJsonp([6,10],{
+webpackJsonp([6,11],{
 
 /***/ 0:
 /***/ function(module, exports, __webpack_require__) {
@@ -30,7 +30,7 @@ webpackJsonp([6,10],{
 	}, 1000);
 	
 	/*暴露的如果是属性  那么值不是实时的，暴露的方法抛出属性 才是实时的*/
-	var sss = __webpack_require__(105);
+	var sss = __webpack_require__(101);
 	console.log(sss.a);
 	sss.init();
 	setTimeout(function () {
@@ -95,7 +95,7 @@ webpackJsonp([6,10],{
 
 /***/ },
 
-/***/ 105:
+/***/ 101:
 /***/ function(module, exports) {
 
 	'use strict';
